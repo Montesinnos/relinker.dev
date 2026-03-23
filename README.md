@@ -1,12 +1,7 @@
-Title: Relinker — Every link, right browser
-Description: Relinker routes URLs to the browser you choose. Set rules by domain, pattern, or regex. Strips tracking parameters automatically. Free on the Mac App Store.
-Author: Relinker
-Language: en
-CSS: /style.css
-
 # Relinker
 
 **Every link, right browser.**
+[Relinker](https://relinker.dev) 
 
 Relinker sends each URL to the browser where it belongs. Google Docs to Chrome, YouTube to Firefox, GitHub to Arc. You set the rules — Relinker does the rest, invisibly.
 
@@ -108,6 +103,6 @@ Stop opening links in the wrong browser. Download Relinker for free. Set your ru
 
 ---
 
-[Privacy Policy](#privacy) | [GitHub](https://github.com/Montesinnos/relinker) | [Report an issue](https://github.com/Montesinnos/relinker/issues)
+[Privacy Policy](#privacy) | [Report an issue](https://github.com/Montesinnos/relinker/issues)
 
 © 2026 Relinker
